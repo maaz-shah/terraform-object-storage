@@ -6,7 +6,7 @@ variable "access_key" { }
 variable "secret_key" { }
 
 variable "bucketname" {
-    default = "mytestbucketmaaz"
+    default = "atestbucket"
     description = "BucketName"
 }
 
